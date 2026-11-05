@@ -1,0 +1,7 @@
+Hi, we need a modern, fast and user-friendly app for our gym members ASAP.
+Members should be able to book classes and pay online. It should be secure.
+We want it on iPhone and Android, but to keep costs low we only want a website, no mobile app.
+Trainers should see their schedule. Also integrate with our CRM.
+It should handle lots of users and look like the Fitbit app.
+Members get rewards points for attending, which they can use at the juice bar via the PTS system.
+Budget is tight, so please keep it simple.

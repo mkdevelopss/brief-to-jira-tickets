@@ -1,0 +1,11 @@
+We run a small chain of three bakeries in Lahore and want a web app for customers to pre-order cakes.
+Customers must be able to browse the cake catalogue with photos and prices in PKR.
+Customers must be able to place a pre-order for pickup at one of our three branches and choose a pickup date at least 2 days ahead.
+Customers pay cash on pickup; no online payment is needed.
+After ordering, the customer receives an order confirmation email with an order number.
+Branch staff must be able to log in and see today's pickups for their own branch only.
+Staff can mark an order as "Ready" or "Collected".
+The admin can add, edit and remove cakes from the catalogue.
+The order list for staff must be built after the ordering feature is finished.
+The app must work on mobile phone browsers.
+Launch deadline: 15 January 2027. The ordering feature is our highest priority.
